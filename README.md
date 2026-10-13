@@ -1,23 +1,48 @@
-# Hi, I'm Jhonny 👋
+<h2 align="center">Hi there 👋 I'm Jhonny</h2>
 
-Software developer based in Pereira, Colombia. I work across the front end and the back end, but I'd rather not be boxed into a single label. I like learning new technologies, trying them in real projects, and understanding why they work.
+<p align="center">
+Software developer from Pereira, Colombia. I work across front end and back end, but I'd rather keep learning than stick to one label. I like trying new technologies in real projects and understanding why they work.
+</p>
 
-## 🛠️ Current Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Pereira-Colombia-0A66C2?style=for-the-badge" alt="Pereira, Colombia"/>
+  <img src="https://img.shields.io/badge/Always-Learning-E11D48?style=for-the-badge" alt="Always learning"/>
+</p>
 
-- **Frontend:** Vue
-- **Backend & Data:** Python, dbt, Dagster
+- 🌱 Always learning something new
+- 🧪 Trying out new tools in real projects
+- 🧱 Building across the whole stack, one layer at a time
 
-## 🧪 Exploring Now
+---
 
-<!-- Fill in what you're trying out right now -->
-- …
+### Know / Using 🛠️
 
-## 🔭 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-- **[Web Platform for Poultry Management](https://github.com/Jhonnyxavier2729/Plataforma-Web-para-Gestion-Avicola)**: a Vue web platform for analyzing egg quality.
-- **[elt-dbt-dagster](https://github.com/Jhonnyxavier2729/elt-dbt-dagster)**: an ELT pipeline built with Python, dbt, and Dagster.
+### Learning 🌱
 
-## 📫 Contact
+<p align="center">
+  <!-- Add the technologies you're learning right now -->
+</p>
+
+---
+
+### Featured Projects 🔭
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Web Platform for Poultry Management](https://github.com/Jhonnyxavier2729/Plataforma-Web-para-Gestion-Avicola) | Vue | Analyzes egg quality through a web platform. |
+| [elt-dbt-dagster](https://github.com/Jhonnyxavier2729/elt-dbt-dagster) | Python, dbt, Dagster | ELT pipeline for data transformation and orchestration. |
+
+---
+
+### Contact 📫
 
 <!-- Add LinkedIn or a portfolio link when you're ready -->
-- …
