@@ -2,9 +2,6 @@
 """
 radar.py - render a spider / radar chart as a standalone SVG. Stdlib only.
 
-Adapted from the profile tooling shared by emmi-lili (https://github.com/emmi-lili/emmi-lili),
-recolored to the portfolio teal.
-
 Two sources of data:
 
   1. a JSON file you control (default)

@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """Generate the animated GitHub profile banners.
 
-Adapted from the profile generator shared by emmi-lili
-(https://github.com/emmi-lili/emmi-lili): same dithered portrait and optimal-transport
-morph, with this profile's data, colors and logos.
-
 Run from the repository root:
     pip install -r scripts/banner/requirements.txt
     python scripts/banner/generate.py

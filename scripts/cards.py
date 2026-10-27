@@ -2,9 +2,6 @@
 """
 cards.py - render GitHub stat and repo cards as SVGs. Stdlib only.
 
-Adapted from the profile tooling shared by emmi-lili (https://github.com/emmi-lili/emmi-lili),
-recolored to the portfolio teal.
-
 Replaces github-readme-stats / github-profile-trophy / streak-stats, which are
 shared public instances that go down (503), run out of quota (402) or time out.
 These are files in your own repo, so they render as long as GitHub renders.
