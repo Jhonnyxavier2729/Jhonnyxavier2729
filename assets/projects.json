@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "xora",
+      "description": "Desktop app with an infinite, zoomable canvas for working with AI coding agents, with panels, voice and worktrees."
+    },
+    {
+      "repo": "Plataforma-Web-para-Gestion-Avicola",
+      "description": "EggQuality: egg tray inventory, market price analysis with DANE data, PDF reports and expiry alerts for poultry farmers in Colombia."
+    },
+    {
+      "repo": "elt-dbt-dagster",
+      "description": "ELT pipeline that loads, transforms and orchestrates data with dbt and Dagster."
+    }
+  ]
+}

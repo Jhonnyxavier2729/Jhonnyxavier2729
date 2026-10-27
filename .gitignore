@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Point caches rebuilt by scripts/banner/generate.py on every run
+scripts/banner/data/
