@@ -117,13 +117,3 @@ interfaces to their inner workings, and I like turning ideas into real, useful p
 </table>
 
 </div>
-
----
-
-<div align="center">
-
-<sub>` built with curiosity · Pereira, Colombia `</sub>
-<br>
-<sub>Profile tooling adapted from <a href="https://github.com/emmi-lili/emmi-lili">emmi-lili</a>, thank you for sharing it.</sub>
-
-</div>
